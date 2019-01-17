@@ -1,4 +1,4 @@
-prog 18/19 assignment
+# prog 18/19 assignment
 **Snake Game**
 ==============
 
