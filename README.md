@@ -1,4 +1,3 @@
-# prog18-19
 prog 18/19 assignment
 **Snake Game**
 ==============
@@ -17,7 +16,7 @@ Once the snake hits any one of the borders of the game area the game starts
 again. The length of the snake will increase every time it eats a food item that
 appears in the game area.
 
-##Implementation and Controls 
+## Implementation and Controls 
 
 In order to design the game area on HTML page, the canvas element is utilized.
 The Canvas element is to very useful in drawing graphics on the simple web pages
